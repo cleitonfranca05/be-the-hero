@@ -1,0 +1,17 @@
+Aula 2
+Parei nos 23:03 min 
+
+- Rotas / Recursos - Seria o /usuarios ou /pedidos
+
+- Metodos Https
+    GET : Buscar uma informacao do back-end
+    POST :Criar uma informaçao no back-end
+    PUT : Alterar uma informaçao no Back-end
+    DELETE: Deletar uma info no back-end
+
+- Insominia
+
+- Tipos de Parametros
+    Query Parms:Parametros enviados na rota apos o "?" (filtros,paginacao) (exemplo users?nome=cleiton&idade=33)
+    Rout Params: Parametros utilixados paraidentificar Recursos (Exmplo users/1 )
+    Request Body:Corpo da requisiçao, utilizado para criar ou alterar recursos
