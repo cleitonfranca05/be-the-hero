@@ -15,3 +15,8 @@ Aula 2
     Rout Params: Parametros utilixados paraidentificar Recursos (Exmplo users/1 )
     Request Body:Corpo da requisiÃ§ao, utilizado para criar ou alterar recursos
     
+
+Aula 3
+
+    - Componente - uma funçao que retorna HML
+    - JSX - 
